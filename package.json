@@ -1,0 +1,17 @@
+{
+  "name": "pro_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "authorizationPage.js",
+  "dependencies": {
+    "protractor": "^5.1.2",
+    "chai": "^4.1.1",
+    "chai-sorted": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run"
+  },
+  "author": "",
+  "license": "ISC"
+}
